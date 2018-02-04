@@ -1,13 +1,9 @@
 
 
 /**
- * NQueen : http://www.geeksforgeeks.org/backtracking-set-3-n-queen-problem/
  * 
  * Complexity:
  * O (n!) where n is size of board.
- * (majority of answers were n!).
- * https://www.quora.com/What-is-best-average-and-worst-case-in-case-of-N-Queen-Problem
- * http://stackoverflow.com/questions/21059422/time-complexity-of-n-queen-using-backtracking
  * 
  * BB: 4
  * 
